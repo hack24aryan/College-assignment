@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#upload-section, #notes-section {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+}
